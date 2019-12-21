@@ -1,4 +1,4 @@
-copy src/404.html dist
+COPY src\404.html dist\404.html
 cd dist
 
 git init
